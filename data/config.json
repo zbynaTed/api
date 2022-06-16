@@ -1,0 +1,11 @@
+{
+  "apiUrl": "https://beran-stack-api.herokuapp.com/api",
+  "yahooApiUrl": "https://yfapi.net/v6/finance/quote?region=US&lang=en&symbols=",
+  "yahooApiKey": "HNaYNqJeXl4a7ENdfc0cA9Z0HRtxHdagnoB5Cav3",
+  "yahooQuoteStringLimit": 35,
+  "most_traded_stocks_limit": 4,
+  "max_trades_per_page": 8,
+  "small_cap_max": 2,
+  "mid_cap_max": 10,
+  "large_cap_max": 100
+}
