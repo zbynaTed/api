@@ -1,4 +1,0 @@
-{
-  "postgresPassword": "stack_postgresPassword",
-  "jwtPrivateKey": "stack_jwtPrivateKey"
-}
